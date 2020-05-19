@@ -29,7 +29,7 @@ dog2 = Dog.new("Happy")
 dog3 = Dog.new("Chandler", "golden")
 puppy = Dog.new 
 jenn = Person.new("Jenn")
-bob = Person.new("Kevin")
+kevin = Person.new("Kevin")
 
 
 
